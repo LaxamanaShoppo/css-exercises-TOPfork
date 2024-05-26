@@ -1,0 +1,14 @@
+.given-font-option {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.pickme-button {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
+}
+
+.destructive-button {
+    background-color: yellow;
+}
